@@ -1,0 +1,3 @@
+name = "my-telegram-bot"
+main = "bot.py"          # نام فایل اصلی پایتون شما
+compatibility_date = "2026-02-22"
