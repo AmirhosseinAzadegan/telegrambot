@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+khayyam
+requests
+urllib3
